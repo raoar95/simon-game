@@ -1,1 +1,1 @@
-# Simon Game Created Jsut for Fun
+# Simon Game Created Just for Fun
